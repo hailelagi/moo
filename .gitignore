@@ -1,0 +1,12 @@
+/.zig-cache
+/.idea
+/zig-out
+/cmake-build-debug
+/_deps
+/CMakeFiles
+/build
+/fmt
+/bin
+
+/googletest
+/fmt
